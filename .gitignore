@@ -1,0 +1,20 @@
+# .NET / Visual Studio
+bin/
+obj/
+out/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+.idea/
+*.swp
+*.tmp
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+artifacts/
+*.pdb
