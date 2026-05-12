@@ -2,12 +2,6 @@
 
 Aplicativo WPF em **.NET 8** para gerenciamento de pedidos, desenvolvido para o Checkpoint 3 da disciplina, demonstrando **POO, Interfaces e Injeção de Dependência**.
 
-## 👥 Integrantes
-
-| Nome | RM |
-|---|---|
-| Gabriel Terra Lilla dos Santos | 554575 |
-
 ## 🚀 Como executar
 
 Pelo Visual Studio / Rider: abrir `OrderManager.sln` e executar (F5).
