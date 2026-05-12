@@ -7,10 +7,6 @@ Aplicativo WPF em **.NET 8** para gerenciamento de pedidos, desenvolvido para o 
 | Nome | RM |
 |---|---|
 | Gabriel Terra Lilla dos Santos | 554575 |
-| Fernando Navajas Moraes | 555080 |
-| Wesley Cardoso | 557927 |
-| Bruna da Costa Candeias | 558938 |
-| José Guilherme Sipaúba Costa | 557274 |
 
 ## 🚀 Como executar
 
